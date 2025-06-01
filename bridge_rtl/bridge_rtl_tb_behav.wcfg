@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="bridge_rtl_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="bridge_rtl_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="149413299fs"></ZoomEndTime>
+      <Cursor1Time time="300000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="164"></NameColumnWidth>
+      <ValueColumnWidth column_width="163"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/bridge_rtl_tb/hclk" type="logic">
+      <obj_property name="ElementShortName">hclk</obj_property>
+      <obj_property name="ObjectShortName">hclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/hresetn" type="logic">
+      <obj_property name="ElementShortName">hresetn</obj_property>
+      <obj_property name="ObjectShortName">hresetn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/hselapb" type="logic">
+      <obj_property name="ElementShortName">hselapb</obj_property>
+      <obj_property name="ObjectShortName">hselapb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/hwrite" type="logic">
+      <obj_property name="ElementShortName">hwrite</obj_property>
+      <obj_property name="ObjectShortName">hwrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/htrans" type="array">
+      <obj_property name="ElementShortName">htrans[1:0]</obj_property>
+      <obj_property name="ObjectShortName">htrans[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/haddr" type="array">
+      <obj_property name="ElementShortName">haddr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">haddr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/hwdata" type="array">
+      <obj_property name="ElementShortName">hwdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">hwdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/prdata" type="array">
+      <obj_property name="ElementShortName">prdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">prdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/paddr" type="array">
+      <obj_property name="ElementShortName">paddr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">paddr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/pwdata" type="array">
+      <obj_property name="ElementShortName">pwdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pwdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/psel" type="logic">
+      <obj_property name="ElementShortName">psel</obj_property>
+      <obj_property name="ObjectShortName">psel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/penable" type="logic">
+      <obj_property name="ElementShortName">penable</obj_property>
+      <obj_property name="ObjectShortName">penable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/pwrite" type="logic">
+      <obj_property name="ElementShortName">pwrite</obj_property>
+      <obj_property name="ObjectShortName">pwrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/hresp" type="logic">
+      <obj_property name="ElementShortName">hresp</obj_property>
+      <obj_property name="ObjectShortName">hresp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/hready" type="logic">
+      <obj_property name="ElementShortName">hready</obj_property>
+      <obj_property name="ObjectShortName">hready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bridge_rtl_tb/hrdata" type="array">
+      <obj_property name="ElementShortName">hrdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">hrdata[31:0]</obj_property>
+   </wvobject>
+</wave_config>
