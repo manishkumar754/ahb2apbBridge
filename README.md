@@ -13,3 +13,5 @@ Supports back-to-back transfers
 
 Maintains full protocol compliance with AMBA specifications
 
+# The overall architecture looks like as:
+![image](https://github.com/user-attachments/assets/f874345c-8b88-4675-aa5b-b87ef961539a)
